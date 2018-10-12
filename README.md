@@ -1,6 +1,9 @@
 # uppsala-workshop
 Repository to save my files from SWC workshop
 
+Please try our code by clicking on:
+My binder: (https://mybinder.org/v2/gh/karinahrne/workshop-uppsala/master?urlpath=rstudio)
+
 This repository is publicly available. See LICENSE file for conditions.
 
 # How to get it
